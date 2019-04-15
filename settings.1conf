@@ -1,0 +1,11 @@
+[DEFAULT]
+
+[directories]
+dir1 = /Users/username/directorytomonitor
+dir2 = /Users/username/directorytomonitor2
+
+[files]
+fil1 = /Users/username/filetomonitor
+
+[server]
+address = http://10.10.10.1:8080
